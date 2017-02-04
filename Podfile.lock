@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - DCQRCode (2.0)
+  - QRCode (2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - AlamofireImage
+  - DCQRCode (~> 2.0)
+  - QRCode
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  DCQRCode: 36e3fd537414c57e2bb98c9a67bcdc027834780e
+  QRCode: f98a1886c8f37523704a7512a4c0cd45b34c18a4
+
+PODFILE CHECKSUM: bb80f08e6172162b9410535df388c848e0b37353
+
+COCOAPODS: 1.2.0
